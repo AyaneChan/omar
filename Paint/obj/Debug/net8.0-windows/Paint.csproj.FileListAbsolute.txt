@@ -1,0 +1,40 @@
+C:\Users\abisa\source\repos\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.exe
+C:\Users\abisa\source\repos\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.deps.json
+C:\Users\abisa\source\repos\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.runtimeconfig.json
+C:\Users\abisa\source\repos\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.dll
+C:\Users\abisa\source\repos\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.pdb
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint_MarkupCompile.cache
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint_MarkupCompile.lref
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.g.resources
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfoInputs.cache
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfo.cs
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.csproj.CoreCompileInputs.cache
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.dll
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\refint\Paint.dll
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.pdb
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.genruntimeconfig.cache
+C:\Users\abisa\source\repos\Graficacion\Paint\obj\Debug\net8.0-windows\ref\Paint.dll
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.exe
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.deps.json
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.runtimeconfig.json
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.dll
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\bin\Debug\net8.0-windows\Paint.pdb
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint_MarkupCompile.cache
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint_MarkupCompile.lref
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.g.resources
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfoInputs.cache
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfo.cs
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.csproj.CoreCompileInputs.cache
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.dll
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\refint\Paint.dll
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.pdb
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\Paint.genruntimeconfig.cache
+C:\Users\jo108\Downloads\Graficacion (2) 1\Graficacion\Paint\obj\Debug\net8.0-windows\ref\Paint.dll

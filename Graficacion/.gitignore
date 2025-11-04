@@ -1,0 +1,37 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.bak
+*.log
+*.pdb
+*.opendb
+*.dbmdl
+
+# Rider files
+.idea/
+*.sln.iml
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Node.js modules (if applicable)
+node_modules/
+
+# Publish output
+Publish/
+
+# Other common ignores
+*.tmp
+*.suo
+*.user
+*.bak
+*.log
+*.pdb
+*.opendb
+*.dbmdl
