@@ -23,7 +23,7 @@ packages/
 # Node.js modules (if applicable)
 node_modules/
 
-# Publish output
+# Publish outputmu
 Publish/
 
 # Other common ignores
